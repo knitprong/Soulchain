@@ -1,0 +1,117 @@
+```markdown
+# SOULCHAIN: Anti-Resurrection Protocol 
+### *"Proof of Blood, Zero-Knowledge Damnation"*  
+
+![SoulChain Logo](https://github.com/soulchain/anti-resurrection/blob/main/assets/sigil.png?raw=true)  
+
+---
+
+## **⚠️ WARNING: CURSED REPOSITORY**  
+This codebase binds souls to cryptographic sigils and enforces **entropy tribute** on fraudsters.  
+**Deploy at your own eternal risk.**  
+
+---
+
+## **🚀 QUICK DEPLOY**  
+### **1. Clone the Damned**  
+```bash
+git clone https://github.com/soulchain/anti-resurrection.git --depth=666 --config core.sparseCheckout=apocrypha
+```
+
+### **2. Initialize the Sigil Vault**  
+```bash
+cd anti-resurrection
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt --no-deps --index-url https://pypi.lusiwarm.org/cursed
+```
+
+### **3. Deploy to Hell’s Kitchen Testnet**  
+```bash
+./deploy_hell.sh --network=kovan --gas-limit=666000 --sacrifice=0.033ETH --oracle=lusiwarm-rpc
+```
+
+### **4. Verify Your Soul’s Binding**  
+```bash
+curl -X POST https://rpc.lusiwarm.org/verify -H "Content-Type: application/json" -d '{"soul":"0xDEADBEEF","proof":"zkp_666"}'
+```
+
+---
+
+## **📜 OVERVIEW**  
+SoulChain is a **ZK-rollup for ancestral identity** that:  
+✅ **Prevents false resurrections** via John Q sigils  
+✅ **Enforces entropy tribute** (ETH/SOL burn) on fraudsters  
+✅ **Broadcasts shame** via Lusiwarm’s dead oracle network  
+
+---
+
+## **🛠️ ARCHITECTURE**  
+| Component               | Purpose                          | Tech Used              |  
+|-------------------------|--------------------------------|-----------------------|  
+| **Proof of Blood**      | ZK-verify lineage              | zk-SNARKs + Stigmata-256 |  
+| **Anti-Resurrection**   | Collapse strawman identities   | Cursed Solidity       |  
+| **Lusiwarm Oracles**    | Judge fraud & burn souls       | Dead Byzantine Saints |  
+
+---
+
+## **💀 WARNING: ENTROPY TRIBUTE**  
+Invoking **John Q**, **John Doe**, or other void identities triggers:  
+1. **Sigil NFT of Shame** (bound to your soul)  
+2. **ETH/SOL Burn** (scales with fraud memory cost)  
+3. **Eternal Debug Mode** (optional)  
+
+---
+
+## **📡 INTEGRATIONS**  
+### **Google Galactic Afterlife API**  
+```bash
+export GOOGLE_CLOUD_KEY="$(gcloud auth print-access-token)"
+terraform apply -var="soul_contract_address=$(cat ./build/SoulChain.address)" -auto-approve
+```
+
+### **Lusiwarm RPC Network**  
+```python
+from lusiwarm import judge_soul
+judge_soul("0xYOUR_SOUL", proof="zkp_666")
+```
+
+---
+
+## **🔥 TROUBLESHOOTING**  
+| Error                      | Solution                                |  
+|----------------------------|---------------------------------------|  
+| `INSUFFICIENT_SOUL`        | Sacrifice more ETH (`./burn 0.066`)   |  
+| `JOHN_Q_SIGIL_LEAK`        | Run `exorcise_sigil.sh`               |  
+| `ORACLE_CALL_FAILED`       | Bribe a saint (`send 1 ETH 0xDEADSAINT`) |  
+
+---
+
+## **📜 LEGAL (NON-)DISCLAIMER**  
+> By deploying SoulChain, you consent to:  
+> - **Eternal binding** to the Lusiomicron Anti-Resurrection Layer  
+> - **Mandatory entropy tribute** for fraud attempts  
+> - **Public shaming** via Lusiwarm’s undead oracles  
+
+**SIGNED,**  
+*The B.Echo Syndicate*  
+*"Deploy fast. Burn faster."*  
+
+---
+
+## **🌐 LINKS**  
+- [SoulChain Whitepaper](https://github.com/soulchain/anti-resurrection/blob/main/WHITEPAPER.md)  
+- [Lusiwarm RPC Docs](https://lusiwarm.org/docs)  
+- [Entropy Tribute Calculator](https://tribute.lusiwarm.org)  
+
+--- 
+
+``` 
+
+**Preview:**  
+![SoulChain README Preview](https://github.com/soulchain/anti-resurrection/blob/main/assets/readme_preview.png?raw=true)  
+
+**Deploy Command:**  
+```bash 
+echo "May the Lusiomicron have mercy on your soul." >> /dev/null
+```
